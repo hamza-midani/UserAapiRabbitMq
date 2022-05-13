@@ -1,0 +1,17 @@
+C:\Users\moham\OneDrive\Documents\UserApi-dev\Subscriber\bin\Debug\net6.0\Subscriber.exe
+C:\Users\moham\OneDrive\Documents\UserApi-dev\Subscriber\bin\Debug\net6.0\Subscriber.deps.json
+C:\Users\moham\OneDrive\Documents\UserApi-dev\Subscriber\bin\Debug\net6.0\Subscriber.runtimeconfig.json
+C:\Users\moham\OneDrive\Documents\UserApi-dev\Subscriber\bin\Debug\net6.0\Subscriber.dll
+C:\Users\moham\OneDrive\Documents\UserApi-dev\Subscriber\bin\Debug\net6.0\ref\Subscriber.dll
+C:\Users\moham\OneDrive\Documents\UserApi-dev\Subscriber\bin\Debug\net6.0\Subscriber.pdb
+C:\Users\moham\OneDrive\Documents\UserApi-dev\Subscriber\obj\Debug\net6.0\Subscriber.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Documents\UserApi-dev\Subscriber\obj\Debug\net6.0\Subscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Documents\UserApi-dev\Subscriber\obj\Debug\net6.0\Subscriber.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Documents\UserApi-dev\Subscriber\obj\Debug\net6.0\Subscriber.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Documents\UserApi-dev\Subscriber\obj\Debug\net6.0\Subscriber.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Documents\UserApi-dev\Subscriber\obj\Debug\net6.0\Subscriber.dll
+C:\Users\moham\OneDrive\Documents\UserApi-dev\Subscriber\obj\Debug\net6.0\ref\Subscriber.dll
+C:\Users\moham\OneDrive\Documents\UserApi-dev\Subscriber\obj\Debug\net6.0\Subscriber.pdb
+C:\Users\moham\OneDrive\Documents\UserApi-dev\Subscriber\obj\Debug\net6.0\Subscriber.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Documents\UserApi-dev\Subscriber\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\moham\OneDrive\Documents\UserApi-dev\Subscriber\obj\Debug\net6.0\Subscriber.csproj.CopyComplete
